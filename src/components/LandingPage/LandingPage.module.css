@@ -1,0 +1,1174 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 3997px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+  box-shadow: 0px 3px 6px 0px #120f281f;
+}
+.container21 {
+  position: absolute;
+  left: 0;
+  top: 3692px;
+  width: 1437px;
+  height: 302px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #ee3a1b;
+  outline-offset: -1px;
+  background-color: #ee3a1b;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.bookHaven {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 26px;
+  line-height: 40px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 145px;
+  top: 67px;
+  width: 153px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  cursor: pointer;
+}
+.exploreOurArticlesPurchaseGift {
+  transform-origin: top left;
+  z-index: 0;
+  position: absolute;
+  left: 1140px;
+  top: 65px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock {
+  color: #4f1409;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #4f1409;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.bookstagramBook {
+  transform-origin: top left;
+  z-index: 0;
+  position: absolute;
+  left: 725px;
+  top: 124px;
+  width: 100px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock3 {
+  color: #421008;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #421008;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.listYourBookstore {
+  transform-origin: top left;
+  color: #421008;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 900px;
+  top: 125px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.becomeADelivery {
+  transform-origin: top left;
+  color: #5c170b;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 900px;
+  top: 156px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.collaborateWithUs {
+  transform-origin: top left;
+  color: #5c170b;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 900px;
+  top: 95px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.contactSupport {
+  transform-origin: top left;
+  color: #421008;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 900px;
+  top: 65px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.firstOrderDiscount {
+  transform-origin: top left;
+  color: #4f1409;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1140px;
+  top: 156px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.recommendation {
+  transform-origin: top left;
+  color: #5c170b;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 724px;
+  top: 95px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.localBookstores {
+  transform-origin: top left;
+  color: #421008;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1140px;
+  top: 125px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.social {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 724px;
+  top: 66px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.container20 {
+  position: absolute;
+  left: 510px;
+  top: 977px;
+  width: 415px;
+  height: 609px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #d3d3d3;
+  outline-offset: -1px;
+  background-color: #fff;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.image47 {
+  z-index: 0;
+  position: absolute;
+  left: 39px;
+  top: 11px;
+  width: 337px;
+  height: 335px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image47.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.selectABookAndAddItToYourCartY {
+  transform-origin: top left;
+  z-index: 0;
+  position: absolute;
+  left: 50px;
+  top: 441px;
+  width: 302px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock5 {
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.addToCart {
+  transform-origin: top left;
+  color: #1f1f1f;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 50px;
+  top: 379px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.away {
+  transform-origin: top left;
+  color: #3c3c3c;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 50px;
+  top: 504px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.image55 {
+  position: absolute;
+  left: 294px;
+  top: 2131px;
+  width: 365px;
+  height: 363px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image55.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image52 {
+  position: absolute;
+  left: 780px;
+  top: 3081px;
+  width: 408px;
+  height: 299px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image52.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.exploreOurCuratedBookselection {
+  transform-origin: top left;
+  position: absolute;
+  left: 328px;
+  top: 311px;
+  width: 670px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock7 {
+  color: #030303;
+  font-size: 56px;
+  line-height: 78px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #030303;
+  font-size: 56px;
+  line-height: 78px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.image54 {
+  position: absolute;
+  left: 138px;
+  top: 1005px;
+  width: 337px;
+  height: 322px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image54.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image57 {
+  position: absolute;
+  left: 333px;
+  top: 1791px;
+  width: 298px;
+  height: 246px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image57.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image56 {
+  position: absolute;
+  left: 321px;
+  top: 2613px;
+  width: 312px;
+  height: 233px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image56.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image53 {
+  position: absolute;
+  left: 1011px;
+  top: 1075px;
+  width: 242px;
+  height: 219px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image53.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container19 {
+  position: absolute;
+  left: 388px;
+  top: 558px;
+  width: 505px;
+  height: 64px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #fff;
+  outline-offset: -1px;
+  border-radius: 32px;
+  background-color: #fff;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.searchForBooks {
+  transform-origin: top left;
+  color: #a8a8a8;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 9px;
+  top: 19px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  border: none;
+  background: transparent;
+  font-family: inherit;
+  font-size: inherit;
+  color: inherit;
+  width: 100%;
+  outline: none;
+}
+.searchForBooks::placeholder {
+  color: inherit;
+  opacity: 1;
+}
+.unnamed {
+  transform-origin: top left;
+  color: #252525;
+  font-size: 10px;
+  line-height: 16px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 473px;
+  top: 22px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.bookHavenSupportsBookstoreswit {
+  transform-origin: top left;
+  position: absolute;
+  left: 983px;
+  top: 2258px;
+  width: 283px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock9 {
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.enjoyTheFinestBooksDeliveredTo {
+  transform-origin: top left;
+  position: absolute;
+  left: 142px;
+  top: 3175px;
+  width: 417px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock12 {
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock13 {
+  margin-top: 0;
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.image58 {
+  position: absolute;
+  left: 1128px;
+  top: 474px;
+  width: 141px;
+  height: 121px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/LandingPage_assets/image58.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.enterYourSearchDiscoverNewRead {
+  transform-origin: top left;
+  position: absolute;
+  left: 145px;
+  top: 1418px;
+  width: 317px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock14 {
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock15 {
+  margin-top: 0;
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.earnByDeliveringBooksToEagerre {
+  transform-origin: top left;
+  position: absolute;
+  left: 984px;
+  top: 1848px;
+  width: 289px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock16 {
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock17 {
+  margin-top: 0;
+  color: #3c3c3c;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.bookHaven2 {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 146px;
+  top: 77px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.button26 {
+  transform-origin: top left;
+  position: absolute;
+  left: 983px;
+  top: 2377px;
+  width: 224px;
+  height: 63px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 32px;
+  background-color: #d3d3d3;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.partnerWithUs {
+  color: #252525;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -1px);
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.contributeToBuildingAPremierbo {
+  transform-origin: top left;
+  position: absolute;
+  left: 983px;
+  top: 2667px;
+  width: 255px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock18 {
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock19 {
+  margin-top: 0;
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.reviewYourSelectionGetReadyTod {
+  transform-origin: top left;
+  position: absolute;
+  left: 974px;
+  top: 1418px;
+  width: 286px;
+  height: min-content;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock20 {
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock21 {
+  margin-top: 0;
+  color: #363636;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.button27 {
+  transform-origin: top left;
+  position: absolute;
+  left: 983px;
+  top: 2786px;
+  width: 214px;
+  height: 63px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 32px;
+  background-color: #d3d3d3;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.joinUs {
+  color: #252525;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.button28 {
+  transform-origin: top left;
+  position: absolute;
+  left: 983px;
+  top: 1966px;
+  width: 193px;
+  height: 64px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 32px;
+  background-color: #d3d3d3;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.deliverWithUs {
+  color: #252525;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.button29 {
+  transform-origin: top left;
+  position: absolute;
+  left: 142px;
+  top: 3324px;
+  width: 179px;
+  height: 63px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 32px;
+  background-color: #ee3a1b;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.getApp {
+  color: #fff;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.5px);
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.button30 {
+  transform-origin: top left;
+  position: absolute;
+  left: 1145px;
+  top: 70px;
+  width: 152px;
+  height: 65px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 33px;
+  background-color: #ee3a1b;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.signUp {
+  color: #fff;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.button31 {
+  transform-origin: top left;
+  position: absolute;
+  left: 987px;
+  top: 70px;
+  width: 143px;
+  height: 65px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 33px;
+  background-color: #d3d3d3;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.signIn {
+  color: #252525;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.button32 {
+  transform-origin: top left;
+  position: absolute;
+  left: 905px;
+  top: 559px;
+  width: 146px;
+  height: 62px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #0000;
+  outline-offset: -1px;
+  border-radius: 31px;
+  background-color: #ee3a1b;
+  overflow: hidden;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.search {
+  color: #fff;
+  font-size: 17px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+.howBookHavenWorks {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 145px;
+  top: 900px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.joinBookHavenTeam {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 144px;
+  top: 1623px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.findYourFavorite {
+  transform-origin: top left;
+  color: #1f1f1f;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 145px;
+  top: 1355px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.shopEffortlessly {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 144px;
+  top: 3113px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.becomeAPartner {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 985px;
+  top: 2196px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.getOurAppNow {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 144px;
+  top: 2968px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.proceedToCheckout {
+  transform-origin: top left;
+  color: #1f1f1f;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 975px;
+  top: 1356px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.becomeABook {
+  transform-origin: top left;
+  color: #030303;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 985px;
+  top: 1786px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.joinOurTeam {
+  transform-origin: top left;
+  color: #1f1f1f;
+  font-size: 27px;
+  line-height: 42px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 983px;
+  top: 2605px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.variousGenres {
+  transform-origin: top left;
+  color: #3c3c3c;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 142px;
+  top: 3239px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.caretDown1 {
+  position: absolute;
+  left: 1272px;
+  top: 912px;
+  width: 24px;
+  height: 24px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.caretDown2 {
+  position: absolute;
+  left: 1273px;
+  top: 1639px;
+  width: 24px;
+  height: 24px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.caretDown3 {
+  position: absolute;
+  left: 1273px;
+  top: 2979px;
+  width: 24px;
+  height: 24px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+
+/* Animation initial states */
+.heroTitle {
+  opacity: 0;
+  transform: translateX(-100px);
+}
+
+.heroImage {
+  opacity: 0;
+  transform: scale(0.9);
+}
+
+.ctaButton {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+
+.searchBar {
+  opacity: 0;
+  transform: translateY(-30px);
+}
+
+.categoryCard {
+  opacity: 0;
+  transform: translateY(20px);
+}
+
+.featureBox {
+  opacity: 0;
+  transform: scale(0.95);
+}
+
+/* Hover animations */
+.navLink {
+  transition: color 0.3s ease;
+}
+
+.navLink:hover {
+  color: #ee3a1b;
+}
+
+.button26:hover,
+.button27:hover,
+.button28:hover,
+.button29:hover,
+.button30:hover,
+.button31:hover,
+.button32:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.image47,
+.image52,
+.image53,
+.image54,
+.image55,
+.image56,
+.image57,
+.image58 {
+  transition: transform 0.3s ease;
+}
+
+.image47:hover,
+.image52:hover,
+.image53:hover,
+.image54:hover,
+.image55:hover,
+.image56:hover,
+.image57:hover,
+.image58:hover {
+  transform: scale(1.05);
+}

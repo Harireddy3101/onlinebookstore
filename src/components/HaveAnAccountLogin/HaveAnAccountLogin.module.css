@@ -1,0 +1,14 @@
+.have-account {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.have-account button {
+  background: none;
+  border: none;
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: underline;
+  padding: 0;
+  font: inherit;
+} 

@@ -1,0 +1,1306 @@
+.root {
+  position: relative;
+  width: 1440px;
+  height: 1733px;
+  flex-direction: column;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+  box-shadow: 0px 3px 6px 0px #120f281f;
+}
+.container7 {
+  position: absolute;
+  left: 0;
+  top: 328px;
+  width: 1438px;
+  height: 678px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #fff;
+  outline-offset: -1px;
+  background-color: #fff;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.image31 {
+  z-index: 0;
+  position: absolute;
+  left: 29px;
+  top: 322px;
+  width: 262px;
+  height: 262px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image31.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image31:hover {
+  transform: scale(1.05);
+}
+.image21 {
+  z-index: 0;
+  position: absolute;
+  left: 869px;
+  top: 322px;
+  width: 262px;
+  height: 262px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image21.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image21:hover {
+  transform: scale(1.05);
+}
+.image10 {
+  z-index: 0;
+  position: absolute;
+  left: 589px;
+  top: 323px;
+  width: 262px;
+  height: 261px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image10.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image10:hover {
+  transform: scale(1.05);
+}
+.image22 {
+  z-index: 0;
+  position: absolute;
+  left: 311px;
+  top: 325px;
+  width: 259px;
+  height: 259px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image22.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image22:hover {
+  transform: scale(1.05);
+}
+.image13 {
+  z-index: 0;
+  position: absolute;
+  left: 1151px;
+  top: 324px;
+  width: 257px;
+  height: 257px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image13.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image13:hover {
+  transform: scale(1.05);
+}
+.image16 {
+  z-index: 0;
+  position: absolute;
+  left: 957px;
+  top: 87px;
+  width: 217px;
+  height: 154px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image16.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image16:hover {
+  transform: scale(1.05);
+}
+.image9 {
+  z-index: 0;
+  position: absolute;
+  left: 260px;
+  top: 86px;
+  width: 215px;
+  height: 155px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image9.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image9:hover {
+  transform: scale(1.05);
+}
+.image12 {
+  z-index: 0;
+  position: absolute;
+  left: 29px;
+  top: 87px;
+  width: 215px;
+  height: 153px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image12.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image12:hover {
+  transform: scale(1.05);
+}
+.image20 {
+  z-index: 0;
+  position: absolute;
+  left: 493px;
+  top: 87px;
+  width: 214px;
+  height: 153px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image20.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image20:hover {
+  transform: scale(1.05);
+}
+.image23 {
+  z-index: 0;
+  position: absolute;
+  left: 1194px;
+  top: 87px;
+  width: 212px;
+  height: 153px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image23.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image23:hover {
+  transform: scale(1.05);
+}
+.image15 {
+  z-index: 0;
+  position: absolute;
+  left: 728px;
+  top: 89px;
+  width: 210px;
+  height: 149px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image15.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+}
+.image15:hover {
+  transform: scale(1.05);
+}
+.bestsellersOfTheMonth {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 32px;
+  top: 277px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.biographiesMemoirs {
+  transform-origin: top left;
+  color: #444;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 876px;
+  top: 594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.scienceFictionNovels {
+  transform-origin: top left;
+  color: #3d3d3d;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1156px;
+  top: 594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.romanceNovels {
+  transform-origin: top left;
+  color: #3d3d3d;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 596px;
+  top: 594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.thrillerNovels {
+  transform-origin: top left;
+  color: #3d3d3d;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 315px;
+  top: 594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._159 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 316px;
+  top: 617px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._999 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 596px;
+  top: 617px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._219 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1156px;
+  top: 617px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.genres {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 32px;
+  top: 42px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.classicNovel {
+  transform-origin: top left;
+  color: #444;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 36px;
+  top: 594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._15 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 36px;
+  top: 617px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._12 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 876px;
+  top: 617px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.image26 {
+  z-index: 0;
+  position: absolute;
+  left: 1362px;
+  top: 275px;
+  width: 20px;
+  height: 22px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image26.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image25 {
+  z-index: 0;
+  position: absolute;
+  left: 1358px;
+  top: 42px;
+  width: 20px;
+  height: 20px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image25.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.disc {
+  transform-origin: top left;
+  color: #444;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 233px;
+  top: 594px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._245 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1075px;
+  top: 595px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.arrowSmRight1 {
+  z-index: 0;
+  position: absolute;
+  left: 1391px;
+  top: 45px;
+  width: 16px;
+  height: 16px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.arrowSmRight2 {
+  z-index: 0;
+  position: absolute;
+  left: 1395px;
+  top: 275px;
+  width: 16px;
+  height: 16px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+._17 {
+  transform-origin: top left;
+  color: #272727;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 522px;
+  top: 595px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._14 {
+  transform-origin: top left;
+  color: #3d3d3d;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 802px;
+  top: 595px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._87 {
+  transform-origin: top left;
+  color: #343434;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1362px;
+  top: 595px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.container6 {
+  position: absolute;
+  left: 0;
+  top: 997px;
+  width: 1438px;
+  height: 433px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #f2d3ce;
+  outline-offset: -1px;
+  background-color: #f2d3ce;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.image11 {
+  z-index: 0;
+  position: absolute;
+  left: 869px;
+  top: 80px;
+  width: 262px;
+  height: 262px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image11.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image14 {
+  z-index: 0;
+  position: absolute;
+  left: 589px;
+  top: 80px;
+  width: 262px;
+  height: 261px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image14.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image17 {
+  z-index: 0;
+  position: absolute;
+  left: 309px;
+  top: 80px;
+  width: 261px;
+  height: 261px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image17.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image18 {
+  z-index: 0;
+  position: absolute;
+  left: 29px;
+  top: 80px;
+  width: 260px;
+  height: 261px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image18.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image19 {
+  z-index: 0;
+  position: absolute;
+  left: 1151px;
+  top: 79px;
+  width: 257px;
+  height: 258px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image19.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.newReleases {
+  transform-origin: top left;
+  color: #1b1717;
+  font-size: 16px;
+  line-height: 26px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 32px;
+  top: 33px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.poetryBooks {
+  transform-origin: top left;
+  color: #413937;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 876px;
+  top: 351px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.historicalFiction {
+  transform-origin: top left;
+  color: #4b4140;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1156px;
+  top: 351px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._2999 {
+  transform-origin: top left;
+  color: #1b1717;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 316px;
+  top: 374px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._1450 {
+  transform-origin: top left;
+  color: #1b1717;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 596px;
+  top: 374px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.dramaPlays {
+  transform-origin: top left;
+  color: #413937;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 596px;
+  top: 351px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.classicNovels {
+  transform-origin: top left;
+  color: #413937;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 36px;
+  top: 351px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._799 {
+  transform-origin: top left;
+  color: #1b1717;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 36px;
+  top: 374px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._499 {
+  transform-origin: top left;
+  color: #1b1717;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 876px;
+  top: 374px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._109 {
+  transform-origin: top left;
+  color: #020202;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1156px;
+  top: 374px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.boxedSets {
+  transform-origin: top left;
+  color: #3a3331;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 316px;
+  top: 351px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.image28 {
+  z-index: 0;
+  position: absolute;
+  left: 821px;
+  top: 351px;
+  width: 25px;
+  height: 18px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image28.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image30 {
+  z-index: 0;
+  position: absolute;
+  left: 218px;
+  top: 35px;
+  width: 20px;
+  height: 21px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image30.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image27 {
+  z-index: 0;
+  position: absolute;
+  left: 1362px;
+  top: 34px;
+  width: 20px;
+  height: 21px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image27.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.image29 {
+  z-index: 0;
+  position: absolute;
+  left: 263px;
+  top: 352px;
+  width: 21px;
+  height: 16px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image29.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.caretRight1 {
+  z-index: 0;
+  position: absolute;
+  left: 1395px;
+  top: 38px;
+  width: 16px;
+  height: 16px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+._98 {
+  transform-origin: top left;
+  color: #413937;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1361px;
+  top: 352px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._32 {
+  transform-origin: top left;
+  color: #3a3331;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 242px;
+  top: 352px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._11 {
+  transform-origin: top left;
+  color: #282322;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 522px;
+  top: 352px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+._62 {
+  transform-origin: top left;
+  color: #3a3331;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 802px;
+  top: 352px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.container5 {
+  position: absolute;
+  left: 0;
+  top: 1429px;
+  width: 1438px;
+  height: 302px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #ee3a1b;
+  outline-offset: -1px;
+  background-color: #ee3a1b;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.contactSupportCollaborateWithU {
+  transform-origin: top left;
+  z-index: 0;
+  position: absolute;
+  left: 900px;
+  top: 66px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock {
+  color: #3e1008;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #3e1008;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #3e1008;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+  color: #3e1008;
+  font-size: 13px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.exploreOurArticlesPurchaseGift {
+  transform-origin: top left;
+  z-index: 0;
+  position: absolute;
+  left: 1141px;
+  top: 66px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock5 {
+  color: #3e1008;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock6 {
+  margin-top: 0;
+  color: #3e1008;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+  color: #3e1008;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.bookHaven {
+  transform-origin: top left;
+  color: #020202;
+  font-size: 24px;
+  line-height: 35px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 145px;
+  top: 70px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.bookstagramBook {
+  transform-origin: top left;
+  z-index: 0;
+  position: absolute;
+  left: 725px;
+  top: 126px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.textBlock8 {
+  color: #3e1008;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock9 {
+  margin-top: 0;
+  color: #3e1008;
+  font-size: 15px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.firstOrderDiscount {
+  transform-origin: top left;
+  color: #3e1008;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 1141px;
+  top: 156px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.recommendation {
+  transform-origin: top left;
+  color: #3e1008;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 725px;
+  top: 96px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.social {
+  transform-origin: top left;
+  color: #020202;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 725px;
+  top: 65px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.image24 {
+  position: absolute;
+  left: 0;
+  top: 189px;
+  width: 1435px;
+  height: 148px;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  border-radius: 6px;
+  background-image:/* webpackIgnore: true */ url('/Discover_assets/image24.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container4 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1440px;
+  height: 84px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 0 #bdc1ca;
+  outline-offset: 0;
+  background-color: #fff;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+  display: flex;
+  justify-content: center;
+}
+.headerIcons {
+  position: absolute;
+  right: 40px;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+.cartIcon,
+.userIcon {
+  width: 24px;
+  height: 24px;
+  color: #343434;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+.cartIcon:hover,
+.userIcon:hover {
+  color: #ee3a1b;
+}
+.bookHaven2 {
+  transform-origin: top left;
+  color: #272727;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: bold;
+  font-family: Archivo, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 33px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+}
+.container3 {
+  position: absolute;
+  left: 0;
+  top: 84px;
+  width: 1438px;
+  height: 63px;
+  flex-direction: column;
+  align-items: flex-start;
+  outline: solid 1px #fff;
+  outline-offset: -1px;
+  background-color: #fff;
+  box-shadow: 0px 0px 1px 0px #171a1f12, 0px 0px 2px 0px #171a1f1f;
+}
+.back {
+  transform-origin: top left;
+  color: #929292;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 52px;
+  top: 20px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.caretLeft1 {
+  z-index: 0;
+  position: absolute;
+  left: 33px;
+  top: 23px;
+  width: 12px;
+  height: 12px;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
